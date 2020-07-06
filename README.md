@@ -10,7 +10,7 @@ The module primarily uses the [Ant Design](https://github.com/ant-design/ant-des
 
 Try it out today - the project is being continually developed to support a variety of different functions.
 
-[View Demo](https://salgum1114.github.io/react-design-editor/)
+[View Demo](https://aakashm301.github.io/FabricjsDesigningBoard/)
 
 # Feature List
 - [x] Add, remove, resize, reorder, clone, copy/paste and drag/drop elements
