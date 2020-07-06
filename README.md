@@ -37,7 +37,7 @@ Run `npm install react-design-editor` or `yarn add react-design-editor`
 
 # Getting Started
 
-1. Clone this Project with `git clone https://github.com/salgum1114/react-design-editor.git`
+1. Clone this Project with `git clone https://github.com/aakashm301/FabricjsDesigningBoard`
 2. Install dependencies with `npm install` or `yarn`
 3. Run the App with `npm start` or `yarn start`
 4. Open your web browser to `http://localhost:8080`
