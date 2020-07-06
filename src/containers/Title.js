@@ -25,7 +25,7 @@ class Title extends Component {
 
 	handlers = {
 		goGithub: () => {
-			window.open('https://github.com/salgum1114/react-design-editor');
+			window.open('https://github.com/aakashm301/FabricjsDrawingBoard');
 		},
 		goDocs: () => {
 			window.open('https://salgum1114.github.io/react-design-editor/docs');
@@ -47,7 +47,7 @@ class Title extends Component {
 				alignItems="center"
 			>
 				<FlexBox style={{ marginLeft: 8 }} flex="0 1 auto">
-					<span style={{ color: '#fff', fontSize: 24, fontWeight: 500 }}>React Design Editor</span>
+					<span style={{ color: '#fff', fontSize: 24, fontWeight: 500 }}>CT Drawing Board</span>
 					<Tooltip title={i18n.t('action.go-github')} overlayStyle={{ fontSize: 16 }}>
 						<Button
 							className="rde-action-btn"
