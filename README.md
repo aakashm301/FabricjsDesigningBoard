@@ -64,13 +64,6 @@ Run `npm install react-design-editor` or `yarn add react-design-editor`
 
 ![workflow](https://user-images.githubusercontent.com/19975642/55678053-718dd900-592e-11e9-9996-cce9b46d8433.PNG)
 
-## ❤️ Sponsors and Backers [![](https://opencollective.com/react-design-editor/tiers/badge.svg)](https://opencollective.com/react-design-editor/contribute) [![](https://opencollective.com/react-design-editor/tiers/sponsor/badge.svg?label=Sponsor&color=brightgreen)](https://opencollective.com/react-design-editor/contribute) [![](https://opencollective.com/react-design-editor/tiers/backer/badge.svg?label=Backer&color=brightgreen)](https://opencollective.com/react-design-editor/contribute)
-
-[![Sponsored by Workflows for Confluence](https://remote.automation-consultants.com/knowledge/download/attachments/57671882/sponsorship.png)](https://marketplace.atlassian.com/apps/1222276/workflows-for-confluence)
-
-[![](https://opencollective.com/react-design-editor/tiers/sponsor.svg?avatarHeight=36)](https://opencollective.com/react-design-editor/contribute)
-
-[![](https://opencollective.com/react-design-editor/tiers/backer.svg?avatarHeight=36)](https://opencollective.com/react-design-editor/contribute)
 
 # Dependencies
 
