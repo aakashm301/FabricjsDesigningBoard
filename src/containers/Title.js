@@ -47,7 +47,7 @@ class Title extends Component {
 				alignItems="center"
 			>
 				<FlexBox style={{ marginLeft: 8 }} flex="0 1 auto">
-					<span style={{ color: '#fff', fontSize: 24, fontWeight: 500 }}>CT Drawing Board</span>
+					<span style={{ color: '#fff', fontSize: 24, fontWeight: 500 }}>CT design Board</span>
 					<Tooltip title={i18n.t('action.go-github')} overlayStyle={{ fontSize: 16 }}>
 						<Button
 							className="rde-action-btn"
