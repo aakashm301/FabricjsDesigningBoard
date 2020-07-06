@@ -1,7 +1,7 @@
-# React Design Editor
+# CampusTitan Drawing Tool
 [![](https://img.shields.io/npm/l/react-design-editor?style=flat-square)](https://en.wikipedia.org/wiki/MIT_License) [![build](https://github.com/salgum1114/react-design-editor/workflows/build/badge.svg)](https://github.com/salgum1114/react-design-editor/actions) [![](https://flat.badgen.net/npm/v/react-design-editor?icon=npm)](https://www.npmjs.com/package/react-design-editor) [![](https://img.shields.io/david/salgum1114/react-design-editor?style=flat-square)](https://david-dm.org/salgum1114/react-design-editor) [![](https://img.shields.io/david/dev/salgum1114/react-design-editor?style=flat-square)](https://david-dm.org/salgum1114/react-design-editor?type=dev)
 
-React Design Editor is a module for React, written in Javascript/Typescript which provides two primary features:
+CampusTitan Drawing Tool is a module for React, written in Javascript/Typescript which provides two primary features:
 
 - Image Editor - Create images in React, draw diagrams and arrange compositions using the image editor and save the result to one of several export formats, provides functionality similar to Powerpoint.
 - Business Process Modelling (BPM) - Design flowcharts and process workflows in React and export the model to JSON, which can be imported into the tool (load/save).
@@ -64,7 +64,7 @@ Run `npm install react-design-editor` or `yarn add react-design-editor`
 
 ![workflow](https://user-images.githubusercontent.com/19975642/55678053-718dd900-592e-11e9-9996-cce9b46d8433.PNG)
 
-## ❤️ Sponsors and Backers [![](https://opencollective.com/react-design-editor/tiers/badge.svg)](https://opencollective.com/react-design-editor/contribute) [![](https://opencollective.com/react-design-editor/tiers/sponsor/badge.svg?label=Sponsor&color=brightgreen)](https://opencollective.com/react-design-editor/contribute) [![](https://opencollective.com/react-design-editor/tiers/backer/badge.svg?label=Backer&color=brightgreen)](https://opencollective.com/react-design-editor/contribute) 
+## ❤️ Sponsors and Backers [![](https://opencollective.com/react-design-editor/tiers/badge.svg)](https://opencollective.com/react-design-editor/contribute) [![](https://opencollective.com/react-design-editor/tiers/sponsor/badge.svg?label=Sponsor&color=brightgreen)](https://opencollective.com/react-design-editor/contribute) [![](https://opencollective.com/react-design-editor/tiers/backer/badge.svg?label=Backer&color=brightgreen)](https://opencollective.com/react-design-editor/contribute)
 
 [![Sponsored by Workflows for Confluence](https://remote.automation-consultants.com/knowledge/download/attachments/57671882/sponsorship.png)](https://marketplace.atlassian.com/apps/1222276/workflows-for-confluence)
 
